@@ -1,4 +1,5 @@
 ## Hi there 👋
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yuuuuu-kko&utm_content=farm">
 <img
