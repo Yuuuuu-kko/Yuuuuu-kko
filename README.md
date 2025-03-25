@@ -1,6 +1,6 @@
-## Hi there 👋
-더 나은 내일을 위해 노력하는 프론트엔드 개발자 유경민 입니다.
-## Tech Stacks 🛠️
+### Hi there
+안녕하세요 더 나은 내일을 위해 노력하는 프론트엔드 개발자 유경민입니다.
+### Tech Stacks
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
